@@ -1,7 +1,7 @@
 public class BicycleRegistration{
 	
 	public static void main(String args[]){
-		
+	// Start	
 		Bicycle bike1, bike2;
 		String owner1, owner2;
 		String tagNo1, tagNo2;
@@ -25,4 +25,4 @@ public class BicycleRegistration{
 		System.out.println("bike2 tag number is "+tagNo2);
 	}
 }
-		
+	//End	

@@ -13,12 +13,12 @@ public class BicycleRegistration{
 		bike2 = new Bicycle();
 		bike2.setOwnerName ("Kalpage");
 		bike2.setTagNo("2016TT");
-		
+		// Change-02
 		owner1 = bike1.getOwnerName();
 		owner2 = bike2.getOwnerName();
 		tagNo1 = bike1.getTagNo();
 		tagNo2 = bike2.getTagNo();
-		
+		// Change-01
 		System.out.println(owner1 + " owns a bike1.");
 		System.out.println(owner2 + " owns a bike2.");
 		System.out.println("bike1 tag number is "+tagNo1);
